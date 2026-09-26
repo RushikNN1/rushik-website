@@ -4,9 +4,9 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/rushik-website/',
   plugins: [
     react(),
     tailwindcss(),
   ],
 })
-
