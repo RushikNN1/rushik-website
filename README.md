@@ -1,16 +1,28 @@
-# React + Vite
+# Rushik NN
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Hello! I’m Rushik NN, a B.Tech student specializing in Artificial Intelligence and Data Science at REVA University, Bengaluru. I am interested in software development, artificial intelligence, data science, and building practical technology projects. This repository contains my personal portfolio, projects, technical skills, and learning journey as I continue developing my programming and problem-solving abilities.
 
-Currently, two official plugins are available:
+## Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Visit my live portfolio:
+https://rushiknn1.github.io/rushik-website/
 
-## React Compiler
+## Skills
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* C
+* Python
+* SQL
+* DBMS
+* Artificial Intelligence
+* Data Science
 
-## Expanding the Oxlint configuration
+## Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### IoT-based Automated Lighting System with Intensity Control
+
+An IoT project designed to automate lighting and control light intensity based on requirements.
+
+## Contact
+
+* GitHub: https://github.com/RushikNN1
+* LinkedIn: https://www.linkedin.com/in/rushik-nn-16268640a/
