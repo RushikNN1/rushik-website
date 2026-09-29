@@ -26,3 +26,6 @@ An IoT project designed to automate lighting and control light intensity based o
 
 * GitHub: https://github.com/RushikNN1
 * LinkedIn: https://www.linkedin.com/in/rushik-nn-16268640a/
+## Portfolio
+
+View my live portfolio: https://rushiknn1.github.io/rushik-website/
